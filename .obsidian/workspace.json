@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ee4517552d71bb86",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc4a08b0a82a8220",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b740b66f2c76862",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7610f4cedf48fa4b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Development/TG Bots/Заметки с курса.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "9765d95b18ac9a5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b332ce4ce58f674",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 128,
+                        "data": "\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it   \r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/core-plugins-migration.json', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it \r\nwarning: in the working copy of '.obsidian/plugins/terminal/data.json', LF will be replaced by CRLF the next time Git to\r\nuches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it    \r\nwarning: in the working copy of 'Development/TG Bots/Заметки с курса.md', LF will be replaced by CRLF the next time Git \r\ntouches it\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git commit -m \"ch TGBot\" \r\n[main f93534b] ch TGBot\r\n 3 files changed, 79 insertions(+), 11 deletions(-)\r\n create mode 100644 \"Development/TG Bots/\\320\\227\\320\\260\\320\\274\\320\\265\\321\\202\\320\\272\\320\\270 \\321\\201 \\320\\272\\321\\\r\n203\\321\\200\\321\\201\\320\\260.md\"\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git checkout\r\nM       .obsidian/workspace.json\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git branch  \r\n  maga\r\n* \u001b[32mmain\r\n\r\n\u001b[0mC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git push origin main\r\n\r\nTo https://github.com/Dimitriy200/My_Obsisdan_Books.git\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \u001b[31m! [rejected]       \u001b[0m main -> main (non-fast-forward)\r\n\u001b[31merror: failed to push some refs to 'https://github.com/Dimitriy200/My_Obsisdan_Books.git'\r\n\u001b[33mhint: Updates were rejected because the tip of your current branch is behind\r\nhint: its remote counterpart. If you want to integrate the remote changes,\r\nhint: use 'git pull' before pushing again.\r\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\r\n\r\n\u001b[0mC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git pull\r\nThere is no tracking information for the current branch.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease specify which branch you want to merge with.\r\nSee git-pull(1) for details.\r\n\r\n    git pull <remote> <branch>\r\n\r\nIf you wish to set tracking information for this branch you can do so with:\r\n\r\n    git branch --set-upstream-to=origin/<branch> main\r\n\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git pull origin main\r\n\r\n\r\nFrom https://github.com/Dimitriy200/My_Obsisdan_Books\r\n * branch            main       -> FETCH_HEAD\r\n\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it    \r\n\r\n\r\n\r\nerror: Your local changes to the following files would be overwritten by merge:\r\n        .obsidian/workspace.json\r\nPlease commit your changes or stash them before you merge.\r\n\r\nAborting\r\n\r\nMerge with strategy ort failed.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git add .     \r\n\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it    \r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git commit -m \"chTgBot\"\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git commit -m \"chTgBot\"\r\n\r\n\r\n[main 4838aa0] chTgBot\r\n 1 file changed, 1 insertion(+), 1 deletion(-)\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git pull origin main\r\n\r\n\r\nFrom https://github.com/Dimitriy200/My_Obsisdan_Books\r\n * branch            main       -> FETCH_HEAD\r\n\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it    \r\n\r\n\r\n\r\nerror: Your local changes to the following files would be overwritten by merge:\r\n        .obsidian/workspace.json\r\nPlease commit your changes or stash them before you merge.\r\n\r\nAborting\r\n\r\nMerge with strategy ort failed.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git push origin main\r\n\r\nTo https://github.com/Dimitriy200/My_Obsisdan_Books.git\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \u001b[31m! [rejected]       \u001b[0m main -> main (non-fast-forward)\r\n\u001b[31merror: failed to push some refs to 'https://github.com/Dimitriy200/My_Obsisdan_Books.git'\r\n\u001b[33mhint: Updates were rejected because the tip of your current branch is behind\r\nhint: its remote counterpart. If you want to integrate the remote changes,\r\nhint: use 'git pull' before pushing again.\r\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\r\n\r\n\u001b[0mC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>",
+                        "rows": 14
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf0a0946e2eb9987",
+    "type": "split",
+    "children": [
+      {
+        "id": "2374f19727305e40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526c8c98ded14167",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60791bc10b598fbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68b1fe4aafbb9fcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e550c44fe7ac69b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "197b68bf1e273646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cf48f77d31e229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d40046d3926b2c75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daf56d4dec2a464e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "770f55ca505cccd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "2b332ce4ce58f674",
+  "lastOpenFiles": [
+    "Development/TG Bots/Заметки с курса.md",
+    "Development/TG Bots/Ссылки.md",
+    "Development/TG Bots",
+    "Development",
+    "kwork/Создание карточек.md",
+    "kwork/img/АнализОбработкаВизуализацияДанных.png",
+    "kwork/img/АнализОбработкаВизуализацияДанных.svg",
+    "kwork/img",
+    "kwork/Новая папка",
+    "kwork",
+    "Алгоритмы/Алгоритмы сортировки/Устойчивость Сортировок.md",
+    "Алгоритмы/Алгоритмы сортировки/Сортировка слиянием.md",
+    "Алгоритмы/Алгоритмы сортировки/Сортировка выбором.md",
+    "Алгоритмы/Алгоритмы сортировки",
+    "Алгоритмы",
+    "ML/Задачи/NLP - Обработка текстов/3й Класс/Порождение текста Text generation.md",
+    "ML/Задачи/NLP - Обработка текстов/3й Класс/Машинный перевод Machine translation.md",
+    "ML/Задачи/NLP - Обработка текстов/3й Класс/Диалоговые модели Dialog and conversational models.md",
+    "ML/Задачи/NLP - Обработка текстов/3й Класс/Автоматическое реферирование Automatic summarization.md",
+    "ML/Задачи/NLP - Обработка текстов/2й Класс/Языковые модели Language models.md",
+    "ML/Задачи/NLP - Обработка текстов/2й Класс/Ответы на вопросы Question answering.md",
+    "ML/Задачи/NLP - Обработка текстов/2й Класс/Информационный поиск Information retrieval.md",
+    "ML/Задачи/NLP - Обработка текстов/2й Класс/Выделение отношений или фактов Relationship extraction, fact extrac-tion.md",
+    "ML/Задачи/NLP - Обработка текстов/2й Класс/Анализ тональности Sentiment analysis.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Частеречная разметка Part-of-speech tagging.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Стемминг или Лемматизация Stemming or Lemmatization.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Синтаксический парсинг Syntactic parsing.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Распознавание именованных сущностей Named entity recognition.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение смысла слов  Word sense disambiguation.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение кореференций  Coreference resolution.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Пословная сегментация  Word segmentation.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Морфологическая сегментация Morphological segmentation.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Выделение границ предложения Sentence boundary disambiguation.md",
+    "ML/Задачи/Классические Задачи/Регрессия.md",
+    "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
+    "ML/Задачи/NLP - Обработка текстов/3й Класс",
+    "ML/Задачи/NLP - Обработка текстов/2й Класс",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс"
+  ]
+}
